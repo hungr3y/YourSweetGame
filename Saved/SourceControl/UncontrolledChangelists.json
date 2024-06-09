@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Source/SweetGame/SweetGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"G:/Project_Solar/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"G:/Project_Solar/Content/TopDown/Maps/TopDownMap.umap",
+				"G:/Project_Solar/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/4B/JLBQ0W3IBBV6IA1T1OKYPU.uasset",
+				"G:/Project_Solar/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"G:/Project_Solar/Content/Northwood/Materials/Functions/MF_UpwardBlend_01a.uasset",
+				"G:/Project_Solar/Content/Northwood/Maps/Northwood_UE5.umap",
+				"G:/Project_Solar/Content/Northwood/Textures/Utility/RVT_01a_SVT.uasset",
+				"G:/Project_Solar/Content/Northwood/Textures/Utility/RVT_Height_01a_SVT.uasset",
+				"G:/Project_Solar/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C.uasset"
 			]
 		}
 	]
